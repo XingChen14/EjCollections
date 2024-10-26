@@ -1,0 +1,28 @@
+CATEGORY, 27
+CATEGORY,Street Lighting
+CATEGORY,Pedestrian Lighting
+CATEGORY,Traffic Signal Poles
+CATEGORY,Controls
+CATEGORY,Downlights
+CATEGORY,Retrofit Downlights
+CATEGORY,Ambient
+CATEGORY,Bulbs
+CATEGORY,Controllers
+CATEGORY,Enclosures
+CATEGORY,High Voltage Electrical
+CATEGORY,Lenses
+CATEGORY,Luminaire
+CATEGORY,Mechanicals
+CATEGORY,Primary Chassis
+CATEGORY,Primary Foundation
+CATEGORY,Secondary Chassis
+CATEGORY,Bulbs
+CATEGORY,Controllers
+CATEGORY,Enclosures
+CATEGORY,High Voltage Electrical
+CATEGORY,Lenses
+CATEGORY,Luminaire
+CATEGORY,Mechanicals
+CATEGORY,Primary Chassis
+CATEGORY,Primary Foundation
+CATEGORY,Secondary Chassis
