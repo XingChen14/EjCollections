@@ -1,4 +1,4 @@
-CATEGORY, 27
+category,27
 CATEGORY,Street Lighting
 CATEGORY,Pedestrian Lighting
 CATEGORY,Traffic Signal Poles
